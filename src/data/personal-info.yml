@@ -7,8 +7,8 @@ github: https://github.com/lordfriend
 stackoverflow: http://stackoverflow.com/users/1696590/lordfriend
 occupation:
   title: Current Occupation
-  desc: src/content/occupation.md
+  desc: src/content-en/occupation.md
 
 skill:
   title: Skills
-  desc: src/content/skills.md
+  desc: src/content-en/skills.md
