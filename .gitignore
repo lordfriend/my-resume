@@ -1,2 +1,4 @@
 .yo-rc.json
 .idea
+dist
+node_modules
