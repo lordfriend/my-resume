@@ -1,0 +1,47 @@
+<div class="personal-info-panel">
+  <div class="row">
+    <div class="col-lg-3">
+      <div class="portfolio">
+        <h1 class="name">{{name}}</h1>
+        <div class="personal-info">
+          <div class="phone">
+            <i class="fa fa-phone fa-fw"></i>
+            <span class="phone-number">{{phone}}</span>
+          </div>
+          <div class="email">
+            <i class="fa fa-envelope fa-fw"></i>
+            <span class="email-address">{{email}}</span>
+          </div>
+          <div class="address">
+            <i class="fa fa-map-marker fa-fw"></i>
+            <span class="address-text">{{address}}</span>
+          </div>
+          <div class="link">
+            <i class="fa fa-globe fa-fw"></i>
+            <a class="link-text" title="{{link}}" href="{{link}}">{{link}}</a>
+          </div>
+          <div class="github">
+            <i class="fa fa-github fa-fw" title="Github"></i>
+            <a class="github-link" title="{{github}}" href="{{github}}">Github</a>
+          </div>
+          <div class="stackoverflow">
+            <i class="fa fa-stack-overflow fa-fw" title="Stack Overflow"></i>
+            <a class="stackoverflow-link" title="{{stackoverflow}}" href="{{stackoverflow}}">StackOverflow</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-9">
+      <div class="description">
+        <div class="current-occupation">
+          <h3>{{occupation.title}}</h3>
+          <p>{{md occupation.desc}}</p>
+        </div>
+        <div class="Skills">
+          <h3>{{skill.title}}</h3>
+          <p>{{md skill.desc}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

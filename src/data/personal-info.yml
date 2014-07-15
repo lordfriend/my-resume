@@ -1,0 +1,14 @@
+phone: 000-000-000
+email: youremail@example.com
+name: Your name
+address: Your address
+link: http://nya.io
+github: https://github.com/lordfriend
+stackoverflow: http://stackoverflow.com/users/1696590/lordfriend
+occupation:
+  title: Current Occupation
+  desc: src/content/occupation.md
+
+skill:
+  title: Skills
+  desc: src/content/skills.md

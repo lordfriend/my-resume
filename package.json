@@ -1,0 +1,51 @@
+{
+  "name": "my-resume",
+  "description": "A resume scaffold.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/lordfriend/my-resume",
+  "author": {
+    "name": "lordfriend",
+    "url": "http://github.com/lordfriend/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lordfriend/my-resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lordfriend/my-resume/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "grunt assemble"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.37",
+    "grunt": "~0.4.4",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "load-grunt-tasks": "~0.6.0",
+    "time-grunt": "~0.3.1",
+    "grunt-contrib-less": "~0.11.3",
+    "grunt-autoprefixer": "~0.8.1",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-usemin": "~2.3.0",
+    "grunt-inline": "~0.3.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/lordfriend/my-resume/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "assemble",
+    "templates",
+    "handlebars",
+    "site generator",
+    "site builder",
+    "grunt"
+  ]
+}

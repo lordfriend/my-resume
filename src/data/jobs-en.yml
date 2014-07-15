@@ -1,0 +1,43 @@
+-
+  title: Senior Development Engineer
+  company: iSmartv Ltd.
+  projects:
+    -
+      title: iSmartV Statistics System
+      responsibility: Full-stack，UI/UX，Architecture
+      tech: [AngularJS, ExpressJS, NodeJS, GruntJS, mongodb, redis, promise, HTML5, CSS3, SVG, D3.js, Highcharts, assemble]
+      desc: "src/content-en/statistics.md"
+      date: August 2013 - Current
+    -
+      title: Shop assistant for Lenovo TV retail seller
+      responsibility: App Developer
+      tech: ["Android SDK", "M3U8", "NanoHTTPD", "Multithreading Download"]
+      desc: "src/content-en/shop_assistant.md"
+      date: November 2013 - January 2014
+    -
+      title: iTV club app for Lenovo TV
+      responsibility: Major App Developer，Director
+      tech: [Android SDK, WebView, AngularJS, CSS3]
+      desc: "src/content-en/itvclub.md"
+      date: April 2013 - July 2013
+    -
+      title: Lenovo A11 vod system
+      responsibility: Major Developer, Director of Project
+      tech: [Android SDK]
+      desc: "src/content-en/a11.md"
+      date: July 2012 - December 2012
+    -
+      title: iSmartV Voice check in app
+      responsibility: App Developer
+      tech: [Android SDK]
+      desc: "src/content-en/voice-checkin.md"
+      date: May 2012 - May 2012
+    -
+      title: iSmartV SpeedTest app for Lenovo TV
+      responsibility: App Developer，First Version UI Design
+      tech: [Android SDK]
+      desc: "src/content-en/speedtest.md"
+      date: April 2012 - May 2012
+-
+  title: Software Engineer
+  company: Hasee Ltd.

@@ -1,0 +1,37 @@
+{{#each jobs-en}}
+  <div class="experience">
+    <div class="job-title">
+      <div class="row">
+        <div class="col-lg-6">
+          <h2 class="occupation">{{title}}</h2>
+        </div>
+        <div class="col-lg-6">
+          <h3 class="company">{{company}}</h3>
+        </div>
+      </div>
+    </div>
+    <div class="timeline">
+      {{#each projects}}
+        <div class="project">
+          <div class="project-title">
+              {{title}}
+          </div>
+          <div class="project-responsibility">
+              {{responsibility}}
+          </div>
+          <ul class="project-tech clearfix">
+              {{#each tech}}
+                <li>{{this}}</li>
+              {{/each}}
+          </ul>
+          <div class="project-desc">
+              {{md desc}}
+          </div>
+          <div class="project-date">
+              {{date}}
+          </div>
+        </div>
+      {{/each}}
+    </div>
+  </div>
+{{/each}}

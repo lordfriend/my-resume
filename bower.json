@@ -1,0 +1,14 @@
+{
+  "name": "my-resume",
+  "version": "0.0.1",
+  "authors": [
+    "lordfriend <lordfriend@outlook.com>"
+  ],
+  "description": "resume",
+  "license": "MIT",
+  "homepage": "nya.io",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
